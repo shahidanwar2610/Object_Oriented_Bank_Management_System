@@ -25,29 +25,15 @@ Built using Object-Oriented Programming and a 3-Tier architecture; demonstrates 
 
 ## ▶ How to Run
 
-1. Clone this repository:  
-   git clone https://github.com/shahidanwar2610/Object_Oriented_Bank_Management_System.git
-   cd Object_Oriented_Bank_Management_System
-Navigate to build folder:
+- Make sure you are in the main folder **"OOBS-Object_Oriented_Bank_System"**.  
+- Open your terminal in this folder path.  
+- Use this command `cd build` to go to the build folder.  
+- Use this command `./run.sh` to compile the app and run it.  
+- Once you do that, you will find a file **"main.exe"** — execute it.  
 
-2.bash
-Copy code
-cd build
-Run the build script:
+- Finally 🎉, it works!  
+- Use this demo username and password to login:  
+- Username: **admin**  
+- Password: **1234**  
 
-bash
-Copy code
-./run.sh
-This will compile the code and produce main.exe.
 
-If run.sh doesn’t work or you want to compile manually:
-
-bash
-Copy code
-cd ../
-g++ -I include -I include/libs -I include/libs/Data_Manip src/*.cpp -o main.exe
-./main.exe
-🔐 Demo Credentials
-Username: admin
-
-Password: 1234
