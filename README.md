@@ -26,12 +26,11 @@ Built using Object-Oriented Programming and a 3-Tier architecture; demonstrates 
 ## ▶ How to Run
 
 1. Clone this repository:  
-   ```bash
    git clone https://github.com/shahidanwar2610/Object_Oriented_Bank_Management_System.git
    cd Object_Oriented_Bank_Management_System
 Navigate to build folder:
 
-bash
+2.bash
 Copy code
 cd build
 Run the build script:
